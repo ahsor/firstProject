@@ -1,0 +1,64 @@
+
+		
+        #wrapper{ width:1000px; margin: auto;}
+		/* header */
+		header{ margin-bottom: 10px;}
+		header ul{ display: flex ; justify-content: flex-end;}
+		.gnb a{ display: block; padding: 8px; padding-bottom: 30px;
+			font-family: "돋움"; font-size: 11pt; color: #333333}
+		.gnb{padding-left:14em ;}
+		.h101{ display: flex;}
+		.h101>div{ padding-top: 13px; margin-left: 10px;}
+		h1{ font-size: 50px; font-weight: bold; color: #5c5c5c;}
+		h1 span{font-weight: 500;}
+		/* nav */
+		.lnb{ background: #395c00; height:50px;padding-top: 30px; width: 1000px;}
+		nav>ul{ display: flex; justify-content: center;}
+		nav a{font-family: "돋움"; font-size: 13pt; color:#ffffff; padding-left: 4em;}
+	    nav a:hover{ color:#ccff00;}
+		.lnb{text-align: center; padding-right: 100px;}
+		.lnb2{background-color: lightgray; height: 20px; color:lightgray;
+		      display: block; margin-right: -100px;}
+		
+		/* section */
+		section{ display: flex; padding-left: 50px; }
+		/* content02 더 스타일리쉬 데코레이션 샵*/
+		.content02 h2{font-size: 44px; font-weight: bold; color: #5c5c5c;}
+		.content02 h2 span{ display: block;font-family: "돋움"; font-size: 30px; font-weight: 500; color: #5c5c5c;}
+		/* content01 */
+		.content01{padding-top: 95px; padding-left: 20px; padding-right: 20px;
+			font-family: "돋움"; font-size: 12px;color: #666666; 
+			}
+		.content01 li{padding:5px;}
+		.content01 ul{padding-top: 10px;padding-bottom: 15px;}
+		.content01 ul:first-child{padding-top:30px;}
+		.content01 span{color:#395c00;}
+
+		/* content03 */
+		.content03{padding-top: 70px; padding-left: 20px;}
+		.content0301 ul{display: flex; padding-top: 5px;}
+		.more{background-color: green; padding: 0 5px 5px 5px; 
+			display: inline; color: #fff;}
+	    .NewProduct{color:green; display: inline; padding-left: 290px;}
+		
+		.content0301 li{padding: 10px; border-top: 1px solid #395c00;}
+
+		.Notice{color:green; display: inline; padding-left: 320px;}
+		.content0302 ul{ padding-top: 5px;}
+		.content0302 li:nth-child(1){border-top: 1px solid #395c00;padding-top: 10px; }
+		.content0302 li{ list-style-type: square; padding-top: 5px; padding-bottom: 5px; }
+		.content0302 ul{padding-left: 20px;}
+		.bed{padding-left:-50px;}
+   	    
+        /* footer */
+       table td:nth-child(1){padding: 2em;}
+       table{border-top: 1px solid #5c5c5c;;}
+       .tr02 td{border-top: 1px solid #5c5c5c;;}
+       .tr02 th{border-top: 1px solid #5c5c5c;}
+       td:nth-child(2){border-left: 1px solid #5c5c5c;}
+       .tr01 td:nth-child(2){padding-left: 2em;width:1000px;}
+       .tr02 td:nth-child(2){padding-left: 2em;width:1000px;}
+       .tr01 th{height:5px; width:500px; padding-right: 0.5em;}
+       .clear{color: #fff;}
+       .tr01 i{font-size: 20px;}        
+        
